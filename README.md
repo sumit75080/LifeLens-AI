@@ -31,6 +31,6 @@ AI & Analytics: Machine learning models for prediction and recommendations
 Disclaimer
 LIFE Lens-AI is developed solely for educational, research, and demonstration purposes. It is not intended to replace professional medical diagnosis or treatment. Users are strongly advised to consult certified healthcare professionals for any medical decisions.
 
-Developed by: Ankur Singh
+Developed by: Sumit kumar Singh
 Domain: AI in Healthcare | Data Analytics | Machine Learning
 Purpose: Academic Project / Research & Skill Demons
